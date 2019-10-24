@@ -43,4 +43,4 @@ PATH=$PATH:$GRADLE_ROOT/bin
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 ```
 
-You need to log out and log in again to make the variables effective.
+You need to reopen your terminal to make the variables effective.

@@ -6,15 +6,21 @@ Install Android Studio and make sure that a simple project can be built successf
 
 For Fedora Distrobution
 
-    sudo dnf install nodejs npm java-1.8.0-openjdk-devel
+```bash
+sudo dnf install nodejs npm java-1.8.0-openjdk-devel
+```
 
 For Ubuntu Distrobution
 
-    sudo apt install nodejs npm openjdk-8-jdk
+```bash
+sudo apt install nodejs npm openjdk-8-jdk
+```
 
 ## Install Cordova
 
-    sudo npm install -g cordova
+```bash
+sudo npm install -g cordova
+```
 
 ## Set Environment Variables
 
